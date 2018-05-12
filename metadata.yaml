@@ -1,0 +1,27 @@
+_repo: Constitutional-History-of-England-Henry-VII-to-George-II.-Volume-3-of-3_44410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hallam, Henry
+    birthdate: 1777
+    deathdate: 1859
+    gutenberg_agent_id: '36462'
+    url: http://www.gutenberg.org/2009/agents/36462
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Hallam
+description: ''
+gutenberg_issued: '2013-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JN'
+- !lcsh 'Constitutional history -- Great Britain'
+title: Constitutional History of England, Henry VII to George II. Volume 3 of 3
+url: http://www.gutenberg.org/ebooks/44410
