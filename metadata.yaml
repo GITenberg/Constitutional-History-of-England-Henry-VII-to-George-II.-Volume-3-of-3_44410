@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36462
     wikipedia: http://en.wikipedia.org/wiki/Henry_Hallam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44410#Constitutional-History-of-England-Henry-VII-to-George-II.-Volume-3-of-3
 gutenberg_issued: '2013-12-11'
 gutenberg_type: Text
 identifiers:
